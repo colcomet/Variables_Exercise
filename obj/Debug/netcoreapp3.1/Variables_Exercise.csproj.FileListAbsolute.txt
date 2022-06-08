@@ -1,0 +1,14 @@
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.exe
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.deps.json
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.runtimeconfig.json
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.runtimeconfig.dev.json
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.dll
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\bin\Debug\netcoreapp3.1\Variables_Exercise.pdb
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.csproj.AssemblyReference.cache
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.AssemblyInfoInputs.cache
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.AssemblyInfo.cs
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.dll
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.pdb
+C:\Users\drewb\OneDrive\repos\Variables_Exercise\obj\Debug\netcoreapp3.1\Variables_Exercise.genruntimeconfig.cache
